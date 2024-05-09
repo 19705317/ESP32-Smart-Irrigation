@@ -10,7 +10,7 @@ the board, "ESP32 Dev Module"
 
 To open the file containing the code Arduino IDE needs to be installed at: https://www.arduino.cc/en/software
 
-Or check the code here on github: https://github.com/19705317/Arduino-Irrigation-Project/tree/main/BlynkOnlineSolutionCode
+Or check the code here on github: https://github.com/19705317/ESP32-Smart-Irrigation
 
 
 
